@@ -1,0 +1,11 @@
+{
+  "name": "closures-scope",
+  "version": "1.0.0",
+  "description": "Es el que se encarga de decidir a que bloques de codigo accederan las variables.\r  - scope global\r  - scope local",
+  "main": "closures-scope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
