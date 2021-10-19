@@ -26,3 +26,22 @@ func1();
 Esto nos mostrara el string "I'm local 3"
 
 Usar let y const para asegurarnos de nos reescribir variables con var
+
+### Ambitos
+* var: Ambito de funcion
+* let y const: Ambito de bloque
+
+```
+const fruits = () => {
+    if(true){
+        var fruits1 = 'apple';
+        let fruits2 = 'banana';
+        const fruits3 = 'kiwi'
+        console.log(fruits2);
+        console.log(fruits3);
+    } 
+    console.log(fruits1);
+}
+
+fruits();
+```
