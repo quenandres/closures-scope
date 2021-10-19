@@ -24,3 +24,5 @@ const func1 = () => {
 func1();
 ```
 Esto nos mostrara el string "I'm local 3"
+
+Usar let y const para asegurarnos de nos reescribir variables con var
