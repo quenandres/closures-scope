@@ -45,3 +45,6 @@ const fruits = () => {
 
 fruits();
 ```
+
+### Que es un closure
+Es la combinacion de una funcion y el ambito lexico en la cual fue declarada dicha funcion, un closure recuerda el ambito en el que fue creado.
