@@ -47,10 +47,10 @@ fruits();
 ```
 
 ### Que es un closure
-Es la combinacion de una funcion y el ambito lexico en la cual fue declarada dicha funcion, un closure recuerda el ambito en el que fue creado.
+- Es la combinacion de una funcion y el ambito lexico en la cual fue declarada dicha funcion, un closure recuerda el ambito en el que fue creado.
 
 ## Ambito lexico
-El ambito lexico son funciones que se ejecutan ulizando
+- El ambito lexico son funciones que se ejecutan ulizando
 la cadena del alcance donde estaba vigente en en su momento
 es decir que se tiene el valor de count que esta declarado en la funcion principal
 pero esta accequible dentro de la funcion,
