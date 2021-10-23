@@ -57,3 +57,6 @@ pero esta accequible dentro de la funcion,
 
 ### closure en Loops
 En un loop nunca ocupes var, siempre utiliza let para valores que irán cambiando dentro de la ejecución del scope.
+
+### hoisting
+Cuando es compilado, el moto poner las declaraciones de las variables antes de la ejecución esto unicamente en las declaraciones y no en las inicializaciones
