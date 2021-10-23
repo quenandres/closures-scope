@@ -54,3 +54,6 @@ fruits();
 la cadena del alcance donde estaba vigente en en su momento
 es decir que se tiene el valor de count que esta declarado en la funcion principal
 pero esta accequible dentro de la funcion,
+
+### closure en Loops
+En un loop nunca ocupes var, siempre utiliza let para valores que irán cambiando dentro de la ejecución del scope.
